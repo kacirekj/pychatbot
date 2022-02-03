@@ -1,0 +1,3 @@
+[console_scripts]
+pychatbot = pychatbot.pychatbot:main
+

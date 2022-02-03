@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pychatbot/__init__.py
+pychatbot/pychatbot.py
+pychatbot.egg-info/PKG-INFO
+pychatbot.egg-info/SOURCES.txt
+pychatbot.egg-info/dependency_links.txt
+pychatbot.egg-info/entry_points.txt
+pychatbot.egg-info/requires.txt
+pychatbot.egg-info/top_level.txt
